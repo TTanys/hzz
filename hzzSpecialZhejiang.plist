@@ -16,12 +16,16 @@
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
 					<key>url</key>
 					<string>http://122.224.129.35:9091/ipa/hzzSpecial_57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
 					<key>url</key>
 					<string>http://122.224.129.35:9091/ipa/hzzSpecial_512.png</string>
 				</dict>
