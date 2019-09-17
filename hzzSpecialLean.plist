@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.uhope.hzzSimpleJiangxi</string>
+				<string>com.uhope.hzzSpecialJiangxi</string>
 				<key>bundle-version</key>
-				<string>2.2.4</string>
+				<string>2.2.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
